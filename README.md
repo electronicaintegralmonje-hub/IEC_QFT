@@ -30,7 +30,6 @@ This repository contains the \textbf{complete numerical implementation} of the *
 .
 ├── qft_elastic.py         ← Código principal (simulación 32^3 lattice)
 ├── qft_simulation.png     ← Figura de resultados (E(t) + corte 2D de \(\phi\))
-├── eso2046a.jpg           ← Imagen EHT de Sgr A* (polarización)
 ├── README.md              ← Este archivo
 ├── LICENSE                ← CC-BY 4.0
 └── requirements.txt       ← Dependencias
