@@ -28,7 +28,7 @@ This repository contains the \textbf{complete numerical implementation} of the *
 
  Repository Structure
 .
-├── qft_elastic.py         ← Código principal (simulación 32^3 lattice)
+├── qft_elastic_z.py         ← Código principal (simulación 32^3 lattice)
 ├── qft_simulation.png     ← Figura de resultados (E(t) + corte 2D de \(\phi\))
 ├── README.md              ← Este archivo
 ├── LICENSE                ← CC-BY 4.0
